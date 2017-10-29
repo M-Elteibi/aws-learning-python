@@ -1,0 +1,52 @@
+{'Records': [],
+  'NextShardIterator': 'AAAAAAAAAAFRSGUSfZWTyuC0/QOVuDuvALSTWyBBhx4NetNpeEMa7TbNBUnC1LKS+8F3btsPlmrTyPGR+E+NjEi/b/bd4l/BF7i+5H7N9j32cqLVPZuOQt1syjLVnTFixYqy9x+6MGFTkYIGUaH8oeGQP3a0eEX/nSVFCBOOh0O1dOMS4RzKUKOsM0fH+X4N9IJRm6ruoRdsSxh79jGjI0ROjxl9Npm9',
+  'MillisBehindLatest': 0,
+  'ResponseMetadata': {
+    'RequestId': 'd184e103-5d41-3f23-83ea-84cb037650f0',
+    'HTTPStatusCode': 200,
+    'HTTPHeaders': {
+      'server': 'Apache-Coyote/1.1',
+      'x-amzn-requestid': 'd184e103-5d41-3f23-83ea-84cb037650f0',
+      'x-amz-id-2': 'ZGXjYzSOcb/43zpUNmC1uDZDILn0RsMl1VKKVcCv22BW0DwcCAWVZtQpvCerL7u5dBMvzjKuA1k04UynoVXZqm4Qb7IwSyNB',
+      'content-type': 'application/x-amz-json-1.1',
+      'content-length': '284',
+      'date': 'Sat, 28 Oct 2017 11:01:27 GMT'}
+  , 'RetryAttempts': 0}
+}
+{'Records': [],
+  'NextShardIterator': 'AAAAAAAAAAF4TIXQpOhpXQMeqshZ85OkCGDc1PTPFRO7LRQ1FQZGUpW3RXlVjn0pVogosEY9DSbgQoVdFv60s/7nVV1WLjBIg9f9zdl5EeMw/EXFJmI9je7Qy/ousucixHoMcPH4ltHi3YfSuyLzI1pRRE8DFBd8NMrbOzALdhOv+zPCbBiIcsZgOUBLh3q24M14s50W1HAiLvJvt+I14b/k7Ximty9J',
+  'MillisBehindLatest': 0,
+  'ResponseMetadata': {
+    'RequestId': 'd7bfcdc7-55cc-e5a5-85d1-a80a0bfb8a76',
+    'HTTPStatusCode': 200,
+    'HTTPHeaders': {
+      'server': 'Apache-Coyote/1.1',
+      'x-amzn-requestid': 'd7bfcdc7-55cc-e5a5-85d1-a80a0bfb8a76',
+      'x-amz-id-2': 'TA9YONzSy1f18VBh4Id5H8THJWphOZiKlqtTb5jfNoZG/E1DOyxZD6oPl4ECDx2gLRqJJrt2vM07yNCDCXv7lOq0jMH1tVRZ',
+      'content-type': 'application/x-amz-json-1.1',
+      'content-length': '284',
+      'date': 'Sat, 28 Oct 2017 11:01:32 GMT'
+    },
+    'RetryAttempts': 0
+  }
+}
+{'Records': [{
+  'SequenceNumber': '49578353737063758287189849966428479020323098357374386178',
+  'ApproximateArrivalTimestamp': datetime.datetime(2017, 10, 28, 22, 1, 34, 862000, tzinfo=tzlocal()),
+  'Data': b'{"first_name": "Lisa",
+  "last_name": "Mcmillan",
+    "age": 68,
+    "gender": "male",
+    "job": "Speech and language therapist",
+    "address": "25251 Mooney Cliffs\\nJordanshire, DE 94034-9399",
+    "email": "schultzmark@hotmail.com"}
+  ',
+  'PartitionKey': 'aa'}], 'NextShardIterator': 'AAAAAAAAAAHHgcmjo1OGd2XEXq/w6bR5IL9/42bdtNHSUOIwdGdAhMRBzbQTriq8K4wptNJ8OqRt585ywCRTEpGdAXUj8wVGlQx3WA2Qvq1Xgt3JWX4AJ/ORl6AOxj5sEQovZkJ691sKrcrAUPZT3H0oAc6zaO/v7/zC3T+BzSLGrVkvcOgHFUGp+Bs0FF2gdSVwbURdXboc5/XJQkS02ANCSsjdaw72', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'eda4586a-6229-53ae-bfca-3db83c1e3c7d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'eda4586a-6229-53ae-bfca-3db83c1e3c7d', 'x-amz-id-2': 'JQMVg1RSO4QbDORjI3H5rlWhgKgGPUhIISTwkqGtRaa+7Z9kc9vLFiUsfPXf2jB5g63U2iJMQ1ja9qk0cjzxiKLQrYI9pEDj', 'content-type': 'application/x-amz-json-1.1', 'content-length': '726', 'date': 'Sat, 28 Oct 2017 11:01:37 GMT'}, 'RetryAttempts': 0}}
+{'Records': [], 'NextShardIterator': 'AAAAAAAAAAENkmPS41ROGjVUTLgKnRG6sSsayYgEDWY2O9n1Hoi4Ne8spmlh435VlkDKpp5hiju4BT1Y5ztb/f7q5xFHVoLOE4IFq9M/GtLo2TWAu3i8wINt5jamQZJwWzvlZEVQelEpaNFSYmEEQ+tAOGUA6EAlq19LV5es7nZmCv31w5vWAw29KccTHsdAwAD5mBWPSAQXrlvfGM8CT/2KBLWc3EBO', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'e91d2d5b-ef03-d05d-bb73-488cb134bf8e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'e91d2d5b-ef03-d05d-bb73-488cb134bf8e', 'x-amz-id-2': 'y7rzHYjdrfx6uektMx7rWHJSBjCqZArskifgOVXaBBt5vHyh0j34ZdQ6CKBZJHhZ3iOpcYnRBugLUBpVF27lo4yJjf47ige4', 'content-type': 'application/x-amz-json-1.1', 'content-length': '284', 'date': 'Sat, 28 Oct 2017 11:01:42 GMT'}, 'RetryAttempts': 0}}
+{'Records': [{'SequenceNumber': '49578353737063758287189849966438150426880016146686279682', 'ApproximateArrivalTimestamp': datetime.datetime(2017, 10, 28, 22, 1, 45, 23000, tzinfo=tzlocal()), 'Data': b'{"first_name": "Daniel", "last_name": "King", "age": 87, "gender": "female", "job": "Designer, jewellery", "address": "153 Lee Estates Apt. 061\\nSouth Richard, MI 12756-7497", "email": "deborahpadilla@king.net"}', 'PartitionKey': 'aa'}], 'NextShardIterator': 'AAAAAAAAAAGuhw7mmeLUy9sJzkGp7jqzg8CWRAJmWXNp7FSMbbVQaPNEYcrg7k7N6ik+j09Rygb1olJ3PHd77qaRk5UpN1BRNM+K54EjakfMCKmFtmUnJ4SlYYYwoqAusvor8ndG6Wyyf9595kH64JhRGM/XOuOqilxwJQoRLR89lOhlUmBUYch/WQF3schQChP52Yscr79vyp13GG7Xosh+EghbUdw3', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'ec2ddcdc-ade0-c12a-be43-b900f3d7aef9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'ec2ddcdc-ade0-c12a-be43-b900f3d7aef9', 'x-amz-id-2': 'Bk2I7YKEfY84kfbNM+PaSsLVHkL+vtF1sFrJpc6Wt9aiOAhw2dqBFLcS+pohLyja7LPzUzVgC4l466ylTPNdS5LwcqYUETLV', 'content-type': 'application/x-amz-json-1.1', 'content-length': '722', 'date': 'Sat, 28 Oct 2017 11:01:47 GMT'}, 'RetryAttempts': 0}}
+{'Records': [], 'NextShardIterator': 'AAAAAAAAAAE9lnOFfeM0XxG3ua7so+Tt6TJ8oDJ4Ob9fbuQIW7kj0uSRCB6JYhS00VUnrX+r4VqKCv1xviLV+Hq/A3ydOlSBdr0UOCEgewrQKaSuU5y7VXyYNtcOyZUmhBbr7gHYfGkZ8aK/JZwnnw4r3du4R2U+zUsWatP/TVbUNgvsx+/gUTjY7sTuSGzc/m3w+jkpD7rQYVwt4UbQVAqfDHKUO8LG', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'e2468a66-95d1-0981-b028-ef87cbe66652', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'e2468a66-95d1-0981-b028-ef87cbe66652', 'x-amz-id-2': 'cMUQGG0fRkKFt3yRf1P9qCZrvA05ywREvArI3ZaRCLm58dJPaxcoVF+pFmH7fcxZdge28zL3cS/NxRh+Gjw3/aFE7Y16o1ye', 'content-type': 'application/x-amz-json-1.1', 'content-length': '284', 'date': 'Sat, 28 Oct 2017 11:01:52 GMT'}, 'RetryAttempts': 0}}
+{'Records': [{'SequenceNumber': '49578353737063758287189849966453866462535007013152227330', 'ApproximateArrivalTimestamp': datetime.datetime(2017, 10, 28, 22, 1, 55, 192000, tzinfo=tzlocal()), 'Data': b'{"first_name": "John", "last_name": "Conley", "age": 81, "gender": "female", "job": "Special effects artist", "address": "27543 Amanda Junctions Suite 039\\nJasonmouth, TN 13002-8111", "email": "john01@hotmail.com"}', 'PartitionKey': 'aa'}], 'NextShardIterator': 'AAAAAAAAAAHbvCvj1vk+Zr8mbv4u8O5V3CjqEunuAq7GMHMFteYQHla4opVd3BJ3tSVTmc2UmY5tJ2DXiEg1ymBbswH0ClFtAMZK20Rbiv0G3kOV5IAwquF4dc5dwySqPCeZ9QBACmhMDa4h6iyGDAPFLbopzYS6UgSj/9MYHHf7KI8QK+Rf3uWrx/ToZDnVoFpe7fdIQbffivixjsBjflZVyzAsTQpo', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'e4413855-353a-54dd-b62f-5db36b0d3b0e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'e4413855-353a-54dd-b62f-5db36b0d3b0e', 'x-amz-id-2': 'Ap88icv8e0ucPG9kBJROO7Sb+ovkZSYdwYhO4MLdsOYnaCKt4mc3Ll4RIi5jR3ihH+9JiHLlW005LnZiI999ppxjWv9ZV50k', 'content-type': 'application/x-amz-json-1.1', 'content-length': '726', 'date': 'Sat, 28 Oct 2017 11:01:57 GMT'}, 'RetryAttempts': 0}}
+{'Records': [], 'NextShardIterator': 'AAAAAAAAAAHeLHE2HC9yEH0GB8Hiy5VOu369YxmMI8UOsRN8Zp8+NiFkaLJPVMxvmMdR2jW35BcqEOUS3RYfb8om34q4wLqfCAgkyBjUNfg0a5w+ihOVJLcYptk4De7dIpe78kegZ64S0OQ/nK8bFFimT9i/myZGA7ng85KWAN6o+cBOevIxI9bzGFYBzRVo3mUECkPgcTsppQg6KdY7ampRCbc2t2Pe', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'cdacc6ef-00e2-d40b-9fc2-a3045ed5bbd8', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'cdacc6ef-00e2-d40b-9fc2-a3045ed5bbd8', 'x-amz-id-2': '5PlwtBFQKvY9WwpIHOgiNlZS1PBpsTQnoPein5eX0S18EriXAMPk1FU5MsWQMc4zyRP/OSWwp8H0exiFc8j0tCHSNnkMCfju', 'content-type': 'application/x-amz-json-1.1', 'content-length': '284', 'date': 'Sat, 28 Oct 2017 11:02:02 GMT'}, 'RetryAttempts': 0}}
+{'Records': [{'SequenceNumber': '49578353737063758287189849966461120017452695544114708482', 'ApproximateArrivalTimestamp': datetime.datetime(2017, 10, 28, 22, 2, 5, 634000, tzinfo=tzlocal()), 'Data': b'{"first_name": "Michael", "last_name": "Costa", "age": 72, "gender": "female", "job": "Control and instrumentation engineer", "address": "239 Reed Glen\\nHenryville, NY 53192", "email": "bushannette@barnes-clark.com"}', 'PartitionKey': 'aa'}], 'NextShardIterator': 'AAAAAAAAAAFX/y17SHghPJSbheVFYsC7tvkQOM8Kpg9dpWJUdrMgCkdiIOyTe2aZ1qtwgnSEH9kof3MHD0M8AbzyyUoLEs3L4PwKJF8PqVQcj1mVPubw93mxsmspEeNP0gnw+MGs678JXnldHx+iTGO003YRY5Gyw3QW0kMj7i3+Tvf+RJoIy3j+Xz1kNF8XacJK+BLrfubgTXt7vJwIRlQljhF9oPW7', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'da94669a-336b-c9ad-88fa-036a6d5ca67e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'da94669a-336b-c9ad-88fa-036a6d5ca67e', 'x-amz-id-2': 'XAcLEVbVNb2kJYrfrEqHbw1lwr+JDYBcVSJ00PhM48mYhWxHGUIcswzhoBs3cqstLgRE67Y4J0dLc6F1vpEe4mQbA/WrajAU', 'content-type': 'application/x-amz-json-1.1', 'content-length': '726', 'date': 'Sat, 28 Oct 2017 11:02:07 GMT'}, 'RetryAttempts': 0}}
+{'Records': [], 'NextShardIterator': 'AAAAAAAAAAHQu4WDBjk0MmuiZe7zODNmZY0H5oY8xziE5FFYKb4MacXaM99VF1ukRhgU2yPQT33ONF5LlkKe/csS+iepWOtBo+RWV/dK9lb9T/12XL5CRm/KqyDgPXYFdAM71rV8VFbOhCdv8SbCml6rErad0JXfsYCGgGbRsAzjbQMAgk2rmo0+zx/sEKfBSV3Rg1CbxRz0nVP5U7ISYRY8WbM3f/+C', 'MillisBehindLatest': 0, 'ResponseMetadata': {'RequestId': 'd40a40be-5ac9-5ba6-8664-254b04fe3475', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Apache-Coyote/1.1', 'x-amzn-requestid': 'd40a40be-5ac9-5ba6-8664-254b04fe3475', 'x-amz-id-2': 'AnD+tpcsZ37gQADxNr6fjZ3mz6FGqmDVRTzFnzYEU3UMVQrptVKOqytTlhbw+ImoMrF3IjCCNm7FPQ0Qox8b9RM4rGqyrY/a', 'content-type': 'application/x-amz-json-1.1', 'content-length': '284', 'date': 'Sat, 28 Oct 2017 11:02:12 GMT'}, 'RetryAttempts': 0}}
+
